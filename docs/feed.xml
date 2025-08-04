@@ -7,5 +7,19 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Aug 2025 11:57:00 GMT</lastBuildDate>
     <atom:link href="https://b1conrad.github.io/HawaiiHonoluluMission/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>MTC</title>
+        <link>https://bruceatbyu.com/s/HHMweek1</link>
+        <description>MTC: Also known as week one.</description>
+        <pubDate>Thu, 31 Jul 2025 20:08:01 -1000</pubDate>
+        <guid>https://bruceatbyu.com/s/HHMweek1</guid>
+    </item>
+    <item>
+        <title>Prologue</title>
+        <link>https://bruceatbyu.com/s/HHMweek0</link>
+        <description>Prologue: Also known as week zero, even though it takes several weeks.</description>
+        <pubDate>Thu, 31 Jul 2025 20:08:00 -1000</pubDate>
+        <guid>https://bruceatbyu.com/s/HHMweek0</guid>
+    </item>
   </channel>
 </rss>
