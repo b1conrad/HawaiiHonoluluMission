@@ -30,7 +30,7 @@ These are the things that need to be done to publish a new post, which
 I intend to do weekly. So far they have been named "Week 9" etc.
 
 1. Share the Google Doc with everyone who has the link for reading
-2. Copy the shared link
+2. Copy the shared link (saved in [a Google Sheet](https://docs.google.com/spreadsheets/d/1Zdr9cvMxNHAiSy6hbB0NpQDC_OYiaTL-LwvpFOUlMKo/edit?usp=sharing))
 3. Add it as a shortcut named "HHMweek9" on bruceatbyu.com/s
 4. In GitHub, edit the docs/index.html file to include a link
 5. In GitHub, edit the docs/feed.xml file to include it as an item
