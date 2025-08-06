@@ -55,5 +55,6 @@ Thinking about the possible problems hurts my head, so that's it for now!
 The ones that I have explored are:
 
 - Just sharing. Works fine, but is cluttered
+- Sharing by publishing to the web breaks the one place were I used two columns
 - PDF. Works fine, but pageinates which sort of isn't web-like, but will be good for publishing to paper
-- HTML. Breaks the one place where I used two columns, so hand-fixed that
+- HTML breaks the place where I used two columns, so hand-fixed that
