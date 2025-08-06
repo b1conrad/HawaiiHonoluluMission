@@ -36,6 +36,9 @@ I intend to do weekly. So far they have been named "Week 9" etc.
 3. Add it as a shortcut named "HHMweek9" on bruceatbyu.com/s
 4. In GitHub, edit the docs/index.html file to include a link
 5. In GitHub, edit the docs/feed.xml file to include it as an item
+6. Download the Google Doc as HTML (zipped)
+7. Add in the `link` to the favicon and make any other needed manual fixes
+8. Upload to GitHub as a folder
 
 ## Risks
 I am dependent on multiple providers.
