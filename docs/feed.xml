@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+    <ttl>60</ttl>
+    <copyright>Copyright 2025, Bruce and Sara Conrad</copyright>
     <title>HHM Bruce and Sara Conrad 2025</title>
     <link>https://b1conrad.github.io/HawaiiHonoluluMission/</link>
     <description>Bruce and Sara Conrad in the Hawaii Honolulu Mission 2025.</description>
