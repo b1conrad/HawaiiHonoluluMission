@@ -7,9 +7,16 @@
     <link>https://b1conrad.github.io/HawaiiHonoluluMission/</link>
     <description>Bruce and Sara Conrad in the Hawaii Honolulu Mission 2025-26.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2026 19:05:00 -1000</lastBuildDate>
-    <pubDate>Sat, 21 Mar 2026 19:05:00 -1000</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2026 22:58:00 -1000</lastBuildDate>
+    <pubDate>Sat, 28 Mar 2026 22:58:00 -1000</pubDate>
     <atom:link href="https://b1conrad.github.io/HawaiiHonoluluMission/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Elder Wada</title>
+        <link>https://bruceatbyu.com/s/HHMweek40</link>
+        <description>Elder Wada: week forty.</description>
+        <pubDate>Sat, 28 Mar 2026 22:58:00 -1000</pubDate>
+        <guid>https://bruceatbyu.com/s/HHMweek40</guid>
+    </item>
     <item>
         <title>Midway</title>
         <link>https://bruceatbyu.com/s/HHMweek39</link>
@@ -37,62 +44,6 @@
         <description>Month ends: week thirty-six.</description>
         <pubDate>Sat, 28 Feb 2026 21:28:00 -1000</pubDate>
         <guid>https://bruceatbyu.com/s/HHMweek36</guid>
-    </item>
-    <item>
-        <title>Wetness</title>
-        <link>https://bruceatbyu.com/s/HHMweek35</link>
-        <description>Wetness: week thirty-five.</description>
-        <pubDate>Sat, 21 Feb 2026 19:41:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek35</guid>
-    </item>
-    <item>
-        <title>Cousin visits</title>
-        <link>https://bruceatbyu.com/s/HHMweek34</link>
-        <description>Cousin visits: week thirty-four.</description>
-        <pubDate>Sat, 14 Feb 2026 21:05:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek34</guid>
-    </item>
-    <item>
-        <title>Trees down</title>
-        <link>https://bruceatbyu.com/s/HHMweek33</link>
-        <description>Trees down: week thirty-three.</description>
-        <pubDate>Sat, 07 Feb 2026 21:55:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek33</guid>
-    </item>
-    <item>
-        <title>Baptism bookends</title>
-        <link>https://bruceatbyu.com/s/HHMweek32</link>
-        <description>Baptism bookends: week thirty-two.</description>
-        <pubDate>Sat, 31 Jan 2026 21:36:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek32</guid>
-    </item>
-    <item>
-        <title>Car wash</title>
-        <link>https://bruceatbyu.com/s/HHMweek31</link>
-        <description>Car wash: week thirty-one.</description>
-        <pubDate>Sun, 25 Jan 2026 09:06:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek31</guid>
-    </item>
-    <item>
-        <title>Party</title>
-        <link>https://bruceatbyu.com/s/HHMweek30</link>
-        <description>Party: week thirty.</description>
-        <pubDate>Sat, 17 Jan 2026 22:16:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek30</guid>
-    </item>
-    <item>
-        <title>Parking</title>
-        <link>https://bruceatbyu.com/s/HHMweek29</link>
-        <description>Parking: week twenty-eight.</description>
-        <pubDate>Sat, 10 Jan 2026 21:06:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek29</guid>
-    </item>
-    <item>
-        <title>New Year 2026</title>
-        <link>https://bruceatbyu.com/s/HHMweek28</link>
-        <description>New Year 2026: week twenty-eight.</description>
-        <pubDate>Sat, 03 Jan 2026 20:16:00 -1000</pubDate>
-        <guid>https://bruceatbyu.com/s/HHMweek28</guid>
     </item>
   </channel>
 </rss>
