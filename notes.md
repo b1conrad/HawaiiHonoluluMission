@@ -46,6 +46,8 @@ I am dependent on multiple providers.
 - GitHub
 - Reclaim Hosting which runs my hand-built URL shortener
 
+While reading a blog post myself, I might inadvertently change it.
+
 ### Mitigation
 Well, sort of. 
 My plan is to export each post from Google Docs and keep them on my laptop
