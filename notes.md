@@ -36,9 +36,16 @@ I intend to do weekly. So far they have been named "Week 9" etc.
 3. Add it as a shortcut like "HHMweek99" on bruceatbyu.com/s
 4. In GitHub, edit the docs/index.html file to include a link
 5. In GitHub, edit the docs/feed.xml file to include it as an item
-6. Download the Google Doc as HTML (zipped)
-7. Add in the `link` to the favicon and make any other needed manual fixes
-8. Upload to GitHub as a folder
+6. Sign in to [Feedburner](https://feedburner.google.com/) to use the menu to _Refresh feed_
+7. Download the Google Doc as HTML (zipped)
+8. Add in the `link` to the favicon and make any other needed manual fixes
+9. Upload to GitHub as a folder
+
+Steps 1-3 prepare the new week for access via a shortcut URL.
+
+Steps 4-6 publish the week's blog post, adding it to the home page.
+
+Steps 7-9 archive the week's blog post.
 
 ## Risks
 I am dependent on multiple providers.
