@@ -70,3 +70,17 @@ The ones that I have explored are:
 - Sharing by publishing to the web breaks the one place were I used two columns
 - PDF. Works fine, but pageinates which sort of isn't web-like, but will be good for publishing to paper
 - HTML breaks the place where I used two columns, so hand-fixed that
+
+## Risks revisited
+
+The first small breakage just happened recently.
+The domain ~domains.byu.edu~ no longer works.
+It had been my way into the cPanel to edit the file ~shortcuts/s~ for step 3.
+
+### Mitigation
+
+Go directly to ~billing.reclaimhosting.com~ to login.
+Once logged in, go to ~cPanel~ and thence to File Manager.
+Append a line to the file ~shortcuts/s~ of the form ~HHMweek99<tab>link~ and save.
+Inserting the Tab character is tricky; I've only been able to do it by copy pasting a previous line.
+
