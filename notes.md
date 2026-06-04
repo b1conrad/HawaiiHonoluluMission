@@ -51,7 +51,7 @@ Steps 7-9 archive the week's blog post.
 I am dependent on multiple providers.
 - Google for Google Drive
 - GitHub
-- Reclaim Hosting which runs my hand-built URL shortener
+- Reclaim Hosting which runs my hand-built URL [shortener](https://github.com/b1conrad/Shorten)
 
 While reading a blog post myself, I might inadvertently change it.
 
