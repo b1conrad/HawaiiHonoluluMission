@@ -84,3 +84,6 @@ Once logged in, go to `cPanel` and thence to File Manager.
 Append a line to the file `shortcuts/s` of the form `HHMweek99<tab>link` and save.
 Inserting the Tab character is tricky; I've only been able to do it by copy pasting a previous line.
 
+## GitHub is now failing to deploy to pages
+
+
