@@ -86,4 +86,12 @@ Inserting the Tab character is tricky; I've only been able to do it by copy past
 
 ## GitHub is now failing to deploy to pages
 
+As suggested, trying again later worked. I assume they have fixed the problem.
+
+## Export deficiency
+
+Just learned that the links that I have added from screenshots of collages to the Google Slides collages themselves
+do not export to HTML.
+The links work when viewing the Google Doc but not in the HTML version.
+
 
