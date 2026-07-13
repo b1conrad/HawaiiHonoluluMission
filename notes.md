@@ -40,7 +40,7 @@ I intend to do weekly. So far they have been named "Week 9" etc.
 7. Download the Google Doc as HTML (zipped)
 8. Add in the `link` to the favicon and make any other needed manual fixes
 9. Upload to GitHub as a folder
-10. Add a file for week99 to the `blog` folder and update the next link in older post
+10. Add a file for week99 to the `blog` folder
 
 Steps 1-3 prepare the new week for access via a shortcut URL.
 
