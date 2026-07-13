@@ -40,12 +40,15 @@ I intend to do weekly. So far they have been named "Week 9" etc.
 7. Download the Google Doc as HTML (zipped)
 8. Add in the `link` to the favicon and make any other needed manual fixes
 9. Upload to GitHub as a folder
+10. Add a file for week99 to the `blog` folder and update the next link in older post
 
 Steps 1-3 prepare the new week for access via a shortcut URL.
 
 Steps 4-6 publish the week's blog post, adding it to the home page.
 
 Steps 7-9 archive the week's blog post.
+
+Step 10 adds the latest post to the archive reading experiment (see below).
 
 ## Risks
 I am dependent on multiple providers.
@@ -94,4 +97,8 @@ Just learned that the links that I have added from screenshots of collages to th
 do not export to HTML.
 The links work when viewing the Google Doc but not in the HTML version.
 
+## Reading the archived blog posts — an experiment
+
+Despite the problem with collage links, I decided to find a way to make the archived posts readable.
+This is done by generating a reading page for each post, with links to previous and next posts.
 
